@@ -56,7 +56,7 @@
             background: #1f8a4b;
         }
     </style>
-</head>
+<\head>
 <body>
     <div class="container">
         <h1>Edu Assessment Pro</h1>
